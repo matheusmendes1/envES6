@@ -33,3 +33,5 @@ P.S: After installing verify the installation with "node -v" and "yarn -v", via 
 With that, let's take what is written in “main.js” and convert it to a file called “bundle.js” (if there is an error, you can try to create the bundle file manually)
 
 And then, after that, just program normally in the main, everything comes out in the bundle :D
+
+Credits: https://medium.com/@matheusmaia_6280/configura%C3%A7%C3%A3o-de-ambiente-javascript-es6-fac281f05cca
